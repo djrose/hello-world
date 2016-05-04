@@ -1,3 +1,3 @@
 # hello-world
 
-Test 1.  Trying to understand Github's layout & usage
+Test 2. Trying without step by step
