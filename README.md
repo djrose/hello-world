@@ -10,4 +10,3 @@ Test 4. OK.  I am thinking I made the prior changes directly to the master branc
         Missed the step of choosing and naming a new branch.
         Let's try it this way.
         
-Test 5. Once again thru the various steps.
